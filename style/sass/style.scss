@@ -2,16 +2,16 @@
 
 .digital-clock-body{
     width: fit-content;
-    background-color: rgb(63, 44, 44);
+    background:linear-gradient(rgb(189, 189, 189),white,white,white,rgb(190, 190, 190));
     padding: 0.12em 0.5em;
     border-radius: 5px;
     div{
         width: 3rem;
         height: 2rem;
-        background-color: rgb(172, 119, 119);
+        background:linear-gradient(rgb(189, 189, 189),white,white,white,rgb(190, 190, 190));
         margin: 0.5rem 0.3rem;
         border-radius: 3px;
-        box-shadow: 0 0 10px 0 black;
+        box-shadow: 0 0 5px 0 black;
         font-weight: bold;
         color:  rgb(63, 44, 44);
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
